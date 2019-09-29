@@ -18,4 +18,10 @@ https://pythonprogramming.net/training-custom-objects-tensorflow-object-detectio
 
 This was just a personal projection tensor object detection model, future progress is uncertain as TensorFlow is a massive and complicated library to use without much understanding. University work may also limit my time to work on it and even other interests will most likely distract me from making future work to build upon this model.
 
+Sidenotes:
+
+The demos folder shows the model labeling fingers as an index because the initial design was for identifying the index finger on the one finger sign.
+
+This project is for detecting fingers with some degree of noticing noises as the object such as mistaking an ear for a finger with 10% confidence. It's not for training another different object identifier. 
+
 And lack of evidence for the work done on this was due to using a Cloud GPU, essentially a virtual machine, lack of knowledge for using Github and forgetting due to mismanagement by my part.
